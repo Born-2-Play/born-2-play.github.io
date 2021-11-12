@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkborn2play=self.webpackChunkborn2play||[]).push([[678],{3783:function(e,t,a){a.r(t),a.d(t,{default:function(){return o}});var n=a(7294),l=a.p+"static/logo-6df2ca24d98fef85a004a77662c7fdb9.svg",r={background:"#000000",color:"#232129",fontFamily:"-apple-system, Roboto, sans-serif, serif"},o=function(){return n.createElement("main",{style:r},n.createElement("title",null,"Home Page"),n.createElement("img",{src:l,alt:"Born2Play"}))}}}]);
-//# sourceMappingURL=component---src-pages-index-js-b780cc7efdb6bdffe9aa.js.map

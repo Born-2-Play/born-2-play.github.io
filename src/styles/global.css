@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: #000000;
+}
+
+.hand-egg {
+    animation: 100ms linear 0s infinite alternate move_egg;
+}
+
+@keyframes move_egg { from { transform: rotate(0deg); } to { transform: rotate(3deg); }  }
+
+/* logo */
+.cls-1{fill:url(#Dégradé_sans_nom_23);}.cls-2{fill:url(#Dégradé_sans_nom_23-2);}.cls-3{fill:url(#Dégradé_sans_nom_23-3);}.cls-4{fill:url(#Dégradé_sans_nom_23-4);}.cls-5{fill:#386f75;}.cls-6{fill:#11363f;}.cls-7{fill:#fefefe;}.cls-8{fill:#fdfdfd;}.cls-9{fill:#fcfbfc;}.cls-10{fill:#fdfcfc;}.cls-11{fill:#e5e5e5;}.cls-12{fill:#c0fcff;}.cls-13{fill:#0183ac;}.cls-14{fill:#75d6df;}.cls-15{fill:#2bbed6;}.cls-16{fill:#105666;}.cls-17{fill:#3cb9d6;}.cls-18{fill:#fff;}.cls-19{fill:#000036;opacity:0.08;}
+
