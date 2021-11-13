@@ -7,7 +7,7 @@ body {
 }
 
 .hand-egg {
-    animation: 100ms linear 0s infinite alternate move_egg;
+    /*animation: 100ms linear 0s infinite alternate move_egg;*/
 }
 
 @keyframes move_egg { from { transform: rotate(0deg); } to { transform: rotate(3deg); }  }
